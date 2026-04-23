@@ -52,7 +52,7 @@ function App() {
 
             <button onClick={e=> setvalue(eval(value))} className="btn flex-1 bg-green-500 hover:bg-green-600 text-white rounded-xl py-3">=</button>
           </div>
-
+<h1>salom</h1>
         </div>
       </div>
     </div >
